@@ -22,6 +22,15 @@ export default function Home() {
             <br />
             seus estudos e tarefas
           </h1>
+
+          <div className={styles.infoContent}>
+            <section className={styles.box}>
+              <span>+12 posts</span>
+            </section>
+            <section className={styles.box}>
+              <span>+102 comentários</span>
+            </section>
+          </div>
         </div>
       </main>
     </div>
