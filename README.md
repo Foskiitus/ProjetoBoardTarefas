@@ -1,4 +1,4 @@
-<img src="https://photos.app.goo.gl/851g4PoG45DnQYsQ6" alt="PrintScreen">
+![PrintScreen](https://github.com/Foskiitus/ProjetoBoardTarefas/assets/7990190/7b0755d2-df51-4b98-95fb-d56031a5dd7e)
 
 This project uses NextJS, TypeScript, together with NextAuth for authentication and Firebase for storing all the tasks and comments. It allows the user to create private tasks as well as public tasks that can be shared via link with other users, an logged users can comment on.
 
