@@ -1,5 +1,8 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<img src="https://photos.app.goo.gl/851g4PoG45DnQYsQ6" alt="PrintScreen">
 
+This project uses NextJS, TypeScript, together with NextAuth for authentication and Firebase for storing all the tasks and comments. It allows the user to create private tasks as well as public tasks that can be shared via link with other users, an logged users can comment on.
+
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 This project is part of a course in UDemy in section 5 [Nextjs do Basico ao avançado](https://www.udemy.com/course/nextjs-zero-ao-avancado/?couponCode=LEADERSALE24TRFR)
 
